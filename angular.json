@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tarefas"
+    }
+  },
+  "defaultProject": "tarefas",
+  "cli": {
+    "analytics": false
+  }
 }
